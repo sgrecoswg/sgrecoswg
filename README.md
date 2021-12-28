@@ -11,7 +11,7 @@
 ## I'm a husband, developer, creative thinker and whatever else life throws at me!
 
 - 🗣 I focus more on creating efficiency in the work place, and enjoy work that has real world impact.
-- 🌱 I’m currently currrently exporing the cryptoverse  
+- 🌱 I’m currrently exporing the cryptoverse  
 - 🥅 2022 Goals: I'm starting a you tube channel, wish me luck!
 - ⚡ Fun fact: I'm also camera shy 🤣
 ### Connect with me:
