@@ -12,8 +12,8 @@
 
 - 🗣 I focus more on creating efficiency in the work place, and enjoy work that has real world impact.
 - 🌱 I’m currrently exporing the cryptoverse  
-- 🥅 2022 Goals: I'm starting a you tube channel, wish me luck!
-- ⚡ Fun fact: I'm also camera shy 🤣
+<!--- - 🥅 2022 Goals: I'm starting a you tube channel, wish me luck!
+- ⚡ Fun fact: I'm also camera shy 🤣-->
 ### Connect with me:
 
 [<img align="left" alt="sensibleprogrammer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
