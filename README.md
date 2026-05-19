@@ -46,4 +46,4 @@
 [twitter]: https://twitter.com/sensibleprogra1
 [instagram]: https://www.instagram.com/sgallowayswg
 [linkedin]: https://www.linkedin.com/in/shawn-galloway-3a457915b
-[facebook]: [https://www.facebook.com/sensibleprogramming/]
+[facebook]: https://www.facebook.com/sensibleprogramming
